@@ -1,0 +1,70 @@
+{
+  "study_area": {
+    "name": null,
+    "bounds_wgs84": null,
+    "analysis_crs": null
+  },
+  "historical_event": null,
+  "datasets": [
+    {
+      "kind": "dem",
+      "status": "pending",
+      "source": null,
+      "local_path": null,
+      "format": null,
+      "crs": null,
+      "units": null,
+      "resolution": null,
+      "coverage": null,
+      "provenance": null
+    },
+    {
+      "kind": "rainfall",
+      "status": "pending",
+      "source": null,
+      "local_path": null,
+      "format": null,
+      "crs": null,
+      "units": null,
+      "resolution": null,
+      "coverage": null,
+      "provenance": null
+    },
+    {
+      "kind": "land_cover",
+      "status": "pending",
+      "source": null,
+      "local_path": null,
+      "format": null,
+      "crs": null,
+      "units": null,
+      "resolution": null,
+      "coverage": null,
+      "provenance": null
+    },
+    {
+      "kind": "soil",
+      "status": "pending",
+      "source": null,
+      "local_path": null,
+      "format": null,
+      "crs": null,
+      "units": null,
+      "resolution": null,
+      "coverage": null,
+      "provenance": null
+    },
+    {
+      "kind": "flood_evidence",
+      "status": "pending",
+      "source": null,
+      "local_path": null,
+      "format": null,
+      "crs": null,
+      "units": null,
+      "resolution": null,
+      "coverage": null,
+      "provenance": null
+    }
+  ]
+}
